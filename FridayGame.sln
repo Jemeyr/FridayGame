@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FridayGame", "FridayGame\FridayGame\FridayGame.csproj", "{B1D78D24-9DDB-4457-BCAF-B6E3D129C9CD}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FridayGameContent", "FridayGame\FridayGameContent\FridayGameContent.contentproj", "{1F7F35E8-4EFC-48FB-8AFC-EBFD4E44E559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D78D24-9DDB-4457-BCAF-B6E3D129C9CD}.Debug|x86.ActiveCfg = Debug|x86
+		{B1D78D24-9DDB-4457-BCAF-B6E3D129C9CD}.Debug|x86.Build.0 = Debug|x86
+		{B1D78D24-9DDB-4457-BCAF-B6E3D129C9CD}.Release|x86.ActiveCfg = Release|x86
+		{B1D78D24-9DDB-4457-BCAF-B6E3D129C9CD}.Release|x86.Build.0 = Release|x86
+		{1F7F35E8-4EFC-48FB-8AFC-EBFD4E44E559}.Debug|x86.ActiveCfg = Debug|x86
+		{1F7F35E8-4EFC-48FB-8AFC-EBFD4E44E559}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
